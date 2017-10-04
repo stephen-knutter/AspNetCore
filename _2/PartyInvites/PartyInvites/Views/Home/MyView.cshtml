@@ -1,0 +1,22 @@
+﻿@{ 
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Index</title>
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css"/>
+    </head>
+    <body>
+        <div class="text-center">
+            @ViewBag.Greeting Stephen
+            <p>
+                We're going to have an exciting party.
+                <br />
+                (To do: sell it better. Add pictures or something.)
+            </p>
+            <a class="btn btn-primary" asp-action="RsvpForm">RSVP Now</a>
+        </div>
+    </body>
+</html>

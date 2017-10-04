@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\bin\Debug\netcoreapp1.1\Razor.deps.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\bin\Debug\netcoreapp1.1\Razor.runtimeconfig.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\bin\Debug\netcoreapp1.1\Razor.runtimeconfig.dev.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\bin\Debug\netcoreapp1.1\Razor.dll
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\obj\Debug\netcoreapp1.1\Razor.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\obj\Debug\netcoreapp1.1\Razor.AssemblyInfo.cs
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\bin\Debug\netcoreapp1.1\Razor.pdb
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\obj\Debug\netcoreapp1.1\Razor.dll
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_5\Razor\Razor\obj\Debug\netcoreapp1.1\Razor.pdb

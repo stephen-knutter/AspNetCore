@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp1.1\LanguageFeatures.deps.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp1.1\LanguageFeatures.runtimeconfig.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp1.1\LanguageFeatures.runtimeconfig.dev.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp1.1\LanguageFeatures.dll
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp1.1\LanguageFeatures.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp1.1\LanguageFeatures.AssemblyInfo.cs
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp1.1\LanguageFeatures.pdb
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp1.1\LanguageFeatures.dll
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_4\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp1.1\LanguageFeatures.pdb

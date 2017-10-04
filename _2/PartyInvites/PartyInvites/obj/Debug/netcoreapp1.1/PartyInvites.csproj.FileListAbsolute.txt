@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.deps.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.runtimeconfig.dev.json
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.dll
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\bin\Debug\netcoreapp1.1\PartyInvites.pdb
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.AssemblyInfo.cs
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.dll
+\\Mac\Home\Documents\win_playgrounds\Pro AspNetCore\_2\PartyInvites\PartyInvites\obj\Debug\netcoreapp1.1\PartyInvites.pdb

@@ -1,0 +1,14 @@
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.deps.json
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.dll
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.csprojResolveAssemblyReference.cache
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.AssemblyInfo.cs
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.pdb
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\WorkingWithVisualStudio.dll
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\WorkingWithVisualStudio.pdb
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.dll
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\obj\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.pdb
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.runtimeconfig.json
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\WorkingWithVisualStudio.Tests.runtimeconfig.dev.json
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Pro AspNetCore\_6\WorkingWithVisualStudio\WorkingWithVisualStudio.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
